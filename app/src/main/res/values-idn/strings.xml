@@ -409,6 +409,9 @@
     <string name="memory_editor_freeze">Bekukan</string>
     <string name="memory_editor_delete">Hapus</string>
     <string name="memory_editor_overlay">Overlay</string>
+    <string name="memory_editor_base_address">Basis MC: %1$s</string>
+    <string name="memory_editor_base_loading">Memuat alamat basis…</string>
+    <string name="memory_editor_base_not_found">Basis MC: Tidak ditemukan</string>
     <string name="memory_overlay_config_title">Konfigurasi Tombol Overlay</string>
     <string name="memory_overlay_name">Nama Tombol</string>
     <string name="memory_overlay_name_hint">misalnya Zoom</string>

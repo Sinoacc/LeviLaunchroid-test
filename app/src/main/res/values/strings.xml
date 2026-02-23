@@ -412,6 +412,9 @@
     <string name="memory_editor_freeze">Freeze</string>
     <string name="memory_editor_delete">Delete</string>
     <string name="memory_editor_overlay">Overlay</string>
+    <string name="memory_editor_base_address">MC Base: %1$s</string>
+    <string name="memory_editor_base_loading">Loading base address…</string>
+    <string name="memory_editor_base_not_found">MC Base: Not found</string>
     <string name="memory_overlay_config_title">Configure Overlay Button</string>
     <string name="memory_overlay_name">Button Name</string>
     <string name="memory_overlay_name_hint">e.g. Health, Speed</string>

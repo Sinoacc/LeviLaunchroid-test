@@ -401,6 +401,9 @@
     <string name="memory_editor_freeze">锁定</string>
     <string name="memory_editor_delete">删除</string>
     <string name="memory_editor_overlay">悬浮按钮</string>
+    <string name="memory_editor_base_address">MC基址: %1$s</string>
+    <string name="memory_editor_base_loading">正在加载基址…</string>
+    <string name="memory_editor_base_not_found">MC基址: 未找到</string>
     <string name="memory_overlay_config_title">配置悬浮按钮</string>
     <string name="memory_overlay_name">按钮名称</string>
     <string name="memory_overlay_name_hint">例如：生命值、速度</string>
